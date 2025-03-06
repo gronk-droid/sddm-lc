@@ -1,5 +1,5 @@
 [SddmGreeterTheme]
-Name=LowContrast
+Name=lc
 Description=For weary eyes.
 Author=gronk-droid
 Copyright=Copyright (C) 2025 gronk-droid
@@ -11,5 +11,5 @@ Screenshot=Previews/screenshot.png
 MainScript=Main.qml
 ConfigFile=theme.conf
 TranslationsDirectory=translations
-Theme-Id=lowcontrast
+Theme-Id=lc
 Theme-API=2.11
