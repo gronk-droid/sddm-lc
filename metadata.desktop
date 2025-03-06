@@ -1,15 +1,15 @@
 [SddmGreeterTheme]
-Name=LentenRose
-Description=Made by Theo.
-Author=Theo
-Copyright=Copyright (C) 2023 Theo
+Name=LowContrast
+Description=For weary eyes.
+Author=gronk-droid
+Copyright=Copyright (C) 2025 gronk-droid
 License=GPL-3.0-or-later
 Type=sddm-theme
 Version=1.0
-Website=https://github.com/theoisdumb/sddm-theme.git
+Website=https://github.com/gronk-droid/sddm-lc
 Screenshot=Previews/screenshot.png
 MainScript=Main.qml
 ConfigFile=theme.conf
 TranslationsDirectory=translations
-Theme-Id=lentenrose
+Theme-Id=lowcontrast
 Theme-API=2.11
